@@ -1,0 +1,76 @@
+{
+  "autores": [
+    {
+      "nome": "André Luiz Ximenes",
+      "email": "andreluizximenes@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Dan Brown",
+      "email": "danbrown@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Luana Alexandre Silva",
+      "email": "luanaalsilva@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "Renato Damasceno",
+      "email": "renato@linx.com.br",
+      "id": 4
+    },
+    {
+      "nome": "Rodrigo Garcia",
+      "email": "rodgarcialima@gmail.com",
+      "id": 5
+    },
+    {
+      "nome": "Paulo Ximenes",
+      "email": "paulinhobx@hotmail.com",
+      "id": 6
+    },
+    {
+      "nome": "João da Silva",
+      "email": "joaosilva@gmail.com",
+      "id": 7
+    },
+    {
+      "nome": "Teste",
+      "email": "Teste@gmail.com",
+      "id": 8
+    },
+    {
+      "nome": "Maria Lucia",
+      "email": "marialucia@gmail.com",
+      "id": 9
+    },
+    {
+      "nome": "joaquim",
+      "email": "joaquim@gmail.com",
+      "id": 10
+    },
+    {
+      "nome": "Veronica",
+      "email": "veronica@gmail.com",
+      "id": 11
+    },
+    {
+      "nome": "Edson",
+      "email": "edson@gmail.com",
+      "id": 12
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "Curso React",
+      "preco": 220,
+      "autor": {
+        "nome": "André Luiz Ximenes",
+        "email": "andreluizximenes@gmail.com",
+        "id": 1
+      },
+      "id": 2
+    }
+  ]
+}
