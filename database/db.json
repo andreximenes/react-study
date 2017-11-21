@@ -71,6 +71,12 @@
         "id": 1
       },
       "id": 2
+    },
+    {
+      "titulo": "Livro da Lua",
+      "preco": "3232",
+      "autor": "",
+      "id": 3
     }
   ]
 }
